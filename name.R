@@ -1,6 +1,6 @@
-cfa (1).R
+cfa.R
 
-cluster (1).R
+cluster.R
 
 clusteranalysis_sale.R
 
@@ -12,9 +12,9 @@ faonfa.R
 
 faontrain.R
 
-fpca (1).R
+fpca.R
 
-kernal pca (1).R
+kernalpca.R
 
 ldaqda.R
 
